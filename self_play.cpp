@@ -2,7 +2,6 @@
 // Created by mrp on 12.03.25.
 //
 #include "Solver.hpp"
-#include "dirichlet.h"
 
 #include <random>
 #include <vector>
